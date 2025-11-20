@@ -1,2 +1,8 @@
-# git-cmd-practice
-2025 oss git command practice
+# GIT 명령어 실습
+- ADD
+- COMMIT
+- PUSH
+- MERGE
+- RESET
+- TAG
+- REVERT
